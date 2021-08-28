@@ -6,6 +6,8 @@
 
 For detailed description please, see my previous repository: https://github.com/rep-stosw/tube-game-dos
 
+Gameplay: https://www.youtube.com/watch?v=dgaLhOj14e8
+
 Play game in browser: https://clobberasm.itch.io/tube
 
 Tech discussion: https://gamedev.ru/flame/forum/?id=262348&page=8&m=5430353#m119
