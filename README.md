@@ -6,6 +6,8 @@
 
 For detailed description please, see my previous repository: https://github.com/rep-stosw/tube-game-dos
 
+Releases for Windows and Linux: https://github.com/rep-stosw/tube64/tree/main/Tube64/bin
+
 Gameplay: https://www.youtube.com/watch?v=dgaLhOj14e8
 
 Play game in browser: https://clobberasm.itch.io/tube
